@@ -36,11 +36,11 @@ Tools 🌙
 
 Current:
 
-> - 🔪 **CSGOFloater** - A utility to aid in crafting CS:GO weapon skins with a very specific float value.
+> 🔪&nbsp;&nbsp;**CSGOFloater** - A utility to aid in crafting CS:GO weapon skins with a very specific float value.
 
 Upcoming:
 
-> - 🪐 **Nyte** - A suite of privacy focused DApps for the **Ethereum** Ecosystem utilizing Polygon/EY Nightfall3.
+> 🪐&nbsp;&nbsp;**Nyte** - A suite of privacy focused DApps for the **Ethereum** Ecosystem utilizing Polygon/EY Nightfall3.
 
 <br/>
 
