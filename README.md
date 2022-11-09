@@ -8,7 +8,7 @@
 
 ### WELCOME
 
-- 🖤 Hi, I'm **Dark Two**. I'm a developer with a passion for **Decentralization** and how it can solve practical issues.
+- 🖤 Hi, I'm **Dark Two**. I'm a developer with a passion for **Decentralization** and how it can solve societal issues.
 
 - ✨ I'm also a self-taught designer. I focus heavily on the aesthetics and UX of the software I create.
 
