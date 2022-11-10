@@ -36,7 +36,7 @@ Tools 🌙
 
 Current:
 
-> 🔪&nbsp;&nbsp;**CSGOFloater** - A utility to aid in crafting CS:GO weapon skins with a very specific float value.
+> [🔪&nbsp;&nbsp;**CSGOFloater**](https://github.com/0xDarkTwo/CSGOfloater) - A utility to aid in crafting CS:GO weapon skins with a very specific float value.
 
 Upcoming:
 
