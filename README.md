@@ -62,7 +62,7 @@ Upcoming:
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-> Dark Two#1323
+> Dark Two#0002
 
 <br/>
 
